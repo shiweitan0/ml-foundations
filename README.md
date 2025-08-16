@@ -1,5 +1,3 @@
-# ML_theory_to_practice
-
 # 📘 Machine Learning: From Theory to Practice  
 
 This repository bridges **machine learning theory** with **practical implementations** and **real-world projects**.  
