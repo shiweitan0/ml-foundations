@@ -1,13 +1,22 @@
 # 📘 Machine Learning: From Theory to Practice  
 
-This repository bridges **machine learning theory** with **practical implementations** and **real-world projects**.  
-It follows a structured learning path:  
+This repository is a **consolidation of my personal learning journey in machine learning**, inspired by the *Machine Learning Specialization* by Andrew Ng.
 
-**Formula → Derivation → Gradient Descent Updates → Implementation → Project**  
+Instead of just applying pre-built libraries, I’ve gone deeper to connect the **theory**, **math**, and **intuition** with **from-scratch implementations** and **real-world applications**. The goal is to reinforce my own understanding while creating a resource that others can also learn from.
+
+The structure reflects this progression:
+
+📐 **Theory & Math** – capturing the key derivations and intuitions
+
+💻 **Implementation** – translating equations into working NumPy code
+
+🌍 **Projects** – applying the concepts to real-world datasets
 
 ---
 
 ## 🔹 Repository Structure  
+
+📐 Formula → ✏️ Derivation → 🔄 Gradient Updates → 💻 Implementation → 🌍 Project
 
 ---
 
