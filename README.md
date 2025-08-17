@@ -1,8 +1,8 @@
 # 📘 Machine Learning: From Theory to Practice  
 
-This repository is a **consolidation of my personal learning journey in machine learning**, inspired by the *Machine Learning Specialization* by Andrew Ng.
+This repository is a consolidation of my personal learning journey in machine learning, inspired by the *Machine Learning Specialization* by Andrew Ng.
 
-Instead of just applying pre-built libraries, I’ve gone deeper to connect the **theory**, **math**, and **intuition** with **from-scratch implementations** and **real-world applications**. The goal is to reinforce my own understanding while creating a resource that others can also learn from.
+Instead of just applying pre-built libraries, I’ve attempted to connect the theory, math, and intuition with from-scratch implementations and real-world applications, with the goal of reinforcing my own understanding.
 
 The structure reflects this progression:
 
