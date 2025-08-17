@@ -24,9 +24,9 @@ The structure reflects this progression:
 
 ### 1. `theory/` – Mathematical Foundations  
 Step-by-step derivations of key ML algorithms:  
-- 📄 [Linear Regression](theory/linear_regression_math.md) – MSE cost function, gradient updates  
-- 📄 [Logistic Regression](theory/logistic_regression_math.md) – Cross-entropy loss, decision boundary intuition  
-- 📄 [Neural Networks](theory/neural_networks_math.md) – Forward/backpropagation derivations  
+- 📄 [Linear Regression](theory/linear_regression_math.ipynb) – MSE cost function, gradient updates  
+- 📄 [Logistic Regression](theory/logistic_regression_math.ipynb) – Cross-entropy loss, decision boundary intuition  
+- 📄 [Neural Networks](theory/neural_networks_math.ipynb) – Forward/backpropagation derivations  
 
 ---
 
