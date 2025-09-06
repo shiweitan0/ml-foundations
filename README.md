@@ -45,14 +45,8 @@ Each notebook includes:
 
 ### 3. `projects/` – Real-World Applications  
 Applying algorithms to real datasets:  
-- 🏠 [House Prices Prediction](projects/house_prices_prediction/)  
-- 📧 [Spam Email Classification](projects/spam_email_classification/)  
-- ✍️ [Handwritten Digit Recognition](projects/handwritten_digits/)  
-
-Each project folder contains:  
-- `data/` (sample or link to dataset)  
-- `eda.ipynb` (exploratory data analysis)  
-- `model.ipynb` (training & evaluation)  
+- 🚢 [Titanic Survival Prediction](https://www.kaggle.com/datasets/yasserh/titanic-dataset/data)  
+- 🔬 [Glass Identification Classification](https://archive.ics.uci.edu/ml/datasets/glass+identification)
 
 ---
 
