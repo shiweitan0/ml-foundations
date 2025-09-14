@@ -45,9 +45,9 @@ Each notebook includes:
 
 ### 3. `projects/` – Real-World Applications  
 Applying algorithms to real datasets:  
-- 🚢 [Titanic Survival Prediction](project/titanic_survivor_prediction.ipynb)  
-- 🔬 [Glass Identification Classification](project/glass_identification.ipynb)
-- 🏠 [Airbnb Price Prediction](project/airbnb_price_prediction.ipynb)
+- 🚢 [Titanic Survival Prediction](projects/titanic_survivor_prediction.ipynb)  
+- 🔬 [Glass Identification Classification](projects/glass_identification.ipynb)
+- 🏠 [Airbnb Price Prediction](projects/airbnb_price_prediction.ipynb)
 
 ---
 
