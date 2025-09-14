@@ -45,8 +45,9 @@ Each notebook includes:
 
 ### 3. `projects/` – Real-World Applications  
 Applying algorithms to real datasets:  
-- 🚢 [Titanic Survival Prediction](https://www.kaggle.com/datasets/yasserh/titanic-dataset/data)  
-- 🔬 [Glass Identification Classification](https://archive.ics.uci.edu/ml/datasets/glass+identification)
+- 🚢 [Titanic Survival Prediction](project/titanic_survivor_prediction.ipynb)  
+- 🔬 [Glass Identification Classification](project/glass_identification.ipynb)
+- 🏠 [Airbnb Price Prediction](project/airbnb_price_prediction.ipynb)
 
 ---
 
