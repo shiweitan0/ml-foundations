@@ -8,26 +8,26 @@ A portfolio demonstrating my understanding of ML by building algorithms from scr
 
 ### 1. `implementation/` – From-Scratch to Frameworks 
 
-🔹 numpy/ – Core algorithms
+🔹 `numpy/` – Core algorithms
 - 📓 [Linear Regression](implementation/linear_regression_numpy.ipynb)  
 - 📓 [Logistic Regression](implementation/logistic_regression_numpy.ipynb)
 - 📓 [K-means Clustering](implementation/kmeans_numpy.ipynb)
 - 📓 Neural Networks
 
-🔹 tensorflow/ – Deep Learning with TensorFlow
+🔹 `tensorflow/` – Deep Learning with TensorFlow
 
-🔹 pytorch/ – Deep Learning with Pytorch
+🔹 `pytorch/` – Deep Learning with Pytorch
 
 ---
 
 ### 2. `projects/` – Real-World Applications  
 
-🔹 classical_ml/ – Traditional ML
+🔹 `classical_ml/` – Traditional ML
 - 🚢 [Titanic Survival Prediction](projects/titanic_survivor_prediction.ipynb)  
 - 🔬 [Glass Identification Classification](projects/glass_identification.ipynb)
 - 🏠 [Airbnb Price Prediction](projects/airbnb_price_prediction.ipynb)
 
-🔹 deep_learning/ – Neural Network Applications
+🔹 `deep_learning/` – Neural Network Applications
 
 ---
 
