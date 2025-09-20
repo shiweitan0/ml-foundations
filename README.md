@@ -11,7 +11,7 @@ A portfolio demonstrating my understanding of ML by building algorithms from scr
 🔹 numpy/ – Core algorithms
 - 📓 [Linear Regression](implementation/linear_regression_numpy.ipynb)  
 - 📓 [Logistic Regression](implementation/logistic_regression_numpy.ipynb)
-- 📓 [K-means Clustering](implemenation/kmeans_numpy.ipynb)
+- 📓 [K-means Clustering](implementation/kmeans_numpy.ipynb)
 - 📓 Neural Networks
 
 🔹 tensorflow/ – Deep Learning with TensorFlow
