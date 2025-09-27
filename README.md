@@ -36,7 +36,7 @@ A portfolio demonstrating my understanding of ML by building algorithms from scr
 
 ---
 
-### 4. `docs/` – Extra Resources  
+### 4. Extra Resources  
 - 🧠 [Stanford CS229 Cheat Sheet by Afshine Amidi](https://stanford.edu/~shervine/teaching/cs-229/)  
 - 🖼️ [Gradient Descent Visuals](https://uclaacm.github.io/gradient-descent-visualiser/)
 
